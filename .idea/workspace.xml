@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8e811b31-7b7f-4915-a092-2110625daf18" name="Changes" comment="commit">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/.idea/LUDO-1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/.idea/caches/deviceStreaming.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/app/.dockerignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/app/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/app/.idea/app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/app/.idea/caches/deviceStreaming.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/app/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/app/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/app/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/app/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/app/config/config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/app/controllers/ludoController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/app/controllers/rootController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/app/models/model.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/app/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/app/public/images/LUDO_BOARD.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/app/public/images/favicon/android-chrome-192x192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/app/public/images/favicon/android-chrome-512x512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/app/public/images/favicon/apple-touch-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/app/public/images/favicon/browserconfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/app/public/images/favicon/favicon-16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/app/public/images/favicon/favicon-32x32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/app/public/images/favicon/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/app/public/images/favicon/head.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/app/public/images/favicon/mstile-150x150.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/app/public/images/favicon/site.webmanifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/app/public/images/icons/clipboard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/app/public/images/icons/copy-link.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/app/public/images/map.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/app/public/images/pawns/blue-pawn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/app/public/images/pawns/green-pawn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/app/public/images/pawns/grey-pawn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/app/public/images/pawns/red-pawn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/app/public/images/pawns/yellow-pawn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/app/public/images/pieces/blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/app/public/images/pieces/green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/app/public/images/pieces/red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/app/public/images/pieces/yellow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/app/public/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/app/public/js/ludo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/app/public/style/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/app/public/style/ludo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/app/routes/ludoRouter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/app/routes/rootRouter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/app/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/app/views/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/app/views/ludo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/docker-compose.dev.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/docker-compose.prod.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/nginx/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/nginx/default.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lud0-Multiplayer/node_modules/.bin/mime" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Bluedevil03205"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Bluedevil03205/Ludo-Multiplayer.git",
+    "accountId": "6cf34fa2-35c7-4f6c-8384-5ec42fb9fe56"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2tm3roxTSB6L7NmYwGwuQivl96v" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/nishanthvs/StudioProjects/Ludo-Multiplayer",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e811b31-7b7f-4915-a092-2110625daf18" name="Changes" comment="" />
+      <created>1740943623846</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740943623846</updated>
+    </task>
+    <task id="LOCAL-00001" summary="commit">
+      <option name="closed" value="true" />
+      <created>1740943814027</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740943814027</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+</project>
