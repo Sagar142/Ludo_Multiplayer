@@ -178,16 +178,6 @@ app.use(function (req, res) {
     res.end('404!');
 });
 
-//
-//
-//
-
-const cors = require("cors");
-app.use(cors({ origin: "https://ludo-multiplayer.onrender.com" })); // Allow all origins
-
-//
-//
-//
 
 
 
