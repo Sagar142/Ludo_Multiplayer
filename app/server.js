@@ -178,6 +178,22 @@ app.use(function (req, res) {
     res.end('404!');
 });
 
+//
+//
+//
+
+const cors = require("cors");
+app.use(cors({ origin: "*" })); // Allow all origins
+
+//
+//
+//
+
+
+
+
+
+
 server.listen(PORT,()=>{
     console.log(`The server has started working on http://localhost:${PORT}`);
 });
