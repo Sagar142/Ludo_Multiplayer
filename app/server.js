@@ -179,11 +179,6 @@ app.use(function (req, res) {
 });
 
 
-
-
-
-
-
 server.listen(PORT,()=>{
     console.log(`The server has started working on http://localhost:${PORT}`);
 });
