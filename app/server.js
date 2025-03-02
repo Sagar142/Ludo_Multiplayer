@@ -183,7 +183,7 @@ app.use(function (req, res) {
 //
 
 const cors = require("cors");
-app.use(cors({ origin: "*" })); // Allow all origins
+app.use(cors({ origin: "https://ludo-multiplayer.onrender.com" })); // Allow all origins
 
 //
 //
