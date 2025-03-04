@@ -1,2 +1,2 @@
-# Ludo_Multiplayer
-Ludo multiplayer game developed in javascript
+# Ludo-Multiplayer
+Ludo Mutiplayer Online
